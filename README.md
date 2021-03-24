@@ -1,18 +1,6 @@
-# tourismandco
+# phfcc_sms
 
-A example Flutter app used for [](https://fluttercrashcourse.com), displaying a list of interesting locations you can visit as a tourist. Tapping on a list item shows a nice detail page where you can book the tour.
-
-## Branches
-
-- `step/step01` basic app with `Scaffold`
-- `step/step02` layout, `Conatiner` and parameterized widgets
-- `step/step03` images
-- `step/step04` styling text, custom fonts
-- `step/step05` working with models
-
-## Screenshots
-
-![](Location&#32;List.png)
-![](Location&#32;Detail.png)
-![](Location&#32;Detail-1.png)
+A text alert app that saves users information including phone number using Python API.  A scheduler is set up to 
+send messages to all numbers in our database at a given time during the week.  The app also allows manual messages
+to be sent out.  In administration you can change the messages, look at the database and remove users.
 
